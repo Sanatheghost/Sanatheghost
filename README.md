@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanatheghost
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on anything relatedd to my subjects
+- 💞️ I’m looking to collaborate on anything related to my subjects
 - 📫 How to reach me mention me
 
 <!---
